@@ -3,7 +3,7 @@ I'm a JavaScript developer, mainly focused on the front-end development
 - 🏠 I was born in Ostrava, Czechia
 - 🏢 I currently work as a senior web developer (full-time) at Gendigital (formerly known as Avast/Nortonlifelock)
 - ⭐ Excited about [Vue.js](https://vuejs.org) + [Nuxt.js](https://nuxtjs.org)
-- 📚 Trying to find a time to learn [Flutter](https://flutter.dev)
+- 📚 Trying to find a time to explore a little bit of [Python](https://www.python.org/)
 - 🚀 Future goals: Making every year better than the last! + Contribute a little bit more...
 
 ---
