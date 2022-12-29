@@ -1,7 +1,7 @@
 # Hello everybody, my name is Daniel 👋
 I'm a JavaScript developer, mainly focused on the front-end development
 - 🏠 I was born in Ostrava, Czechia
-- 🏢 I currently work as a senior web developer (full-time) at Gendigital (formelly known as Avast/Nortonlifelock)
+- 🏢 I currently work as a senior web developer (full-time) at Gendigital (formerly known as Avast/Nortonlifelock)
 - ⭐ Excited about [Vue.js](https://vuejs.org) + [Nuxt.js](https://nuxtjs.org)
 - 📚 Trying to find a time to learn [Flutter](https://flutter.dev)
 - 🚀 Future goals: Making every year better than the last! + Contribute a little bit more...
