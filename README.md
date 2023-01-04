@@ -7,7 +7,7 @@ I'm a JavaScript developer, mainly focused on the front-end development
 - 🚀 Future goals: Making every year better than the last! + Contribute a little bit more...
 
 ---
-![Sladecekd's GitHub stats](https://github-readme-stats.vercel.app/api?username=sladecekd&count_private=true&show_icons=true&theme=github_dark&hide=contribs,starts,issues)
+![Sladecekd's GitHub stats](https://github-readme-stats-custom-rust.vercel.app/api?username=sladecekd&count_private=true&show_icons=true&theme=github_dark&hide=contribs,starts,issues)
 
 ## Get in touch with me:
 [<img align="left" alt="Business website" width="48px" height="48px" src="https://user-images.githubusercontent.com/35903069/154745316-c385fe46-d3d6-454e-abbc-0bca6a3a28da.svg" />](https://sladecekd.com)
