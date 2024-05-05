@@ -8,7 +8,6 @@ I'm a JavaScript developer, mainly focused on the front-end development
 
 ---
 ![Sladecekd's GitHub stats](https://github-readme-stats-custom-rust.vercel.app/api?username=sladecekd&count_private=true&show_icons=true&theme=github_dark&hide=contribs,starts,issues)
-[![Top Langs](https://github-readme-stats-custom-rust.vercel.app/api/top-langs/?username=sladecekd&theme=github_dark)](https://github.com/sladecekd/github-readme-stats)
 
 ## Get in touch with me:
 [<img align="left" alt="Business website" width="48px" height="48px" src="https://user-images.githubusercontent.com/35903069/154745316-c385fe46-d3d6-454e-abbc-0bca6a3a28da.svg" />](https://sladecekd.com)
