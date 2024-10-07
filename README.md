@@ -6,9 +6,6 @@ I'm a JavaScript developer, mainly focused on the front-end development
 - 📚 Trying to find a time to explore a little bit of [React Native](https://reactnative.dev/) and brush up my [React](https://react.dev/) skills in general
 - 🚀 Future goals: Making every year better than the last!
 
----
-![Sladecekd's GitHub stats](https://github-readme-stats-custom-rust.vercel.app/api?username=sladecekd&count_private=true&show_icons=true&theme=github_dark&hide=contribs,starts,issues)
-
 ## Get in touch with me:
 [<img align="left" alt="Business website" width="48px" height="48px" src="https://user-images.githubusercontent.com/35903069/154745316-c385fe46-d3d6-454e-abbc-0bca6a3a28da.svg" />](https://sladecekd.com)
 [<img align="left" alt="Twitter" width="48px" height="48px" src="https://user-images.githubusercontent.com/35903069/154745314-501bc730-4835-44b5-b2a1-8a949a4bf380.svg" />](https://twitter.com/sladecek_daniel)
