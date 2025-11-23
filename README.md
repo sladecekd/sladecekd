@@ -9,8 +9,8 @@ I'm a JavaScript developer, mainly focused on the front-end development
 - 📚 Trying to find a time to explore a little bit of [React Native](https://reactnative.dev/) and brush up my [React](https://react.dev/) skills in general
 - 🚀 Future goals: Making every year better than the last!
   
-![Sladecekd's GitHub stats](https://github-readme-stats.vercel.app/api?username=sladecekd&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sladecekd&layout=compact)
+![Sladecekd's GitHub stats](https://github-readme-stats-pearl-five-54.vercel.app/api?username=sladecekd&show_icons=true)
+![Top Langs](https://github-readme-stats-pearl-five-54.vercel.app/api/top-langs/?username=sladecekd&layout=compact)
 
 <h2> 👑 &nbsp;Active Skills</h2>
 <p align="left">
