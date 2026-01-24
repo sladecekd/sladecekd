@@ -2,8 +2,6 @@
 
 I'm a JavaScript developer, mainly focused on the front-end development
 
-<a href="https://app.daily.dev/sladecekd"><img src="https://api.daily.dev/devcards/v2/R7uG1Go2stlLAOKBfvCbb.png?type=wide&r=d2g" width="652" alt="Daniel Sladecek's Dev Card"/></a>
-
 - 🏠 I was born in Ostrava, Czechia
 - 🏢 I currently work as a senior web developer (full-time) at Gen (formerly known as Avast)
 - 📚 Trying to find a time to explore a little bit of [React Native](https://reactnative.dev/) and brush up my [React](https://react.dev/) skills in general
